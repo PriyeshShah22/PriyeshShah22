@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<h1 align="left">Hey 👋 I'm Priyesh Shah</h1>
+<h1 align="center">Hey 👋 I'm Priyesh Shah</h1>
 
 ###
 
