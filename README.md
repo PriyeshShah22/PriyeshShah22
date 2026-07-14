@@ -3,10 +3,11 @@
 </div>
 
 <h1 align="center">Hey 👋 I'm Priyesh Shah</h1>
+<p align="center">🚀 AI/ML Enthusiast | Open Source Contributor | Automation Builder</p>
 
 ###
 
-<p align="left">🚀 AI/ML Enthusiast | Open Source Contributor | Automation Builder<br>I'm passionate about exploring Artificial Intelligence, Machine Learning, and AI-powered automation tools. I enjoy building projects, contributing to open source, and continuously learning new technologies.</p>
+<p align="left">I'm passionate about exploring Artificial Intelligence, Machine Learning, and AI-powered automation tools. I enjoy building projects, contributing to open source, and continuously learning new technologies.</p>
 
 ###
 
