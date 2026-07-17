@@ -32,7 +32,7 @@ Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and 
 | 2 | [CashOut Predictor](https://github.com/PriyeshShah22/cashpredictor) | Fintech | Analyzes banking transactions and spending to predict potential cash-out dates | Hackathon |
 | 3 | [Study Dashboard](https://github.com/PriyeshShah22/studydash) | Productivity / Education | All-in-one study workspace for task management, goal tracking, and focused sessions | College (Microproject) |
 | 4 | [Silence Project](https://github.com/PriyeshShah22/silence-project-main) | Civic Analytics / Governance | AI analytics to detect “silent zones” with unusually low complaint activity | College (Microproject) |
-| 5 | [ChangeFlow](https://github.com/PriyeshShah22/Changeflow)) | Business / Govt Request Workflow | Multi-level request and change management system with BRD → QA → UAT → Production flow | Internship |
+| 5 | [ChangeFlow](https://github.com/PriyeshShah22/Changeflow) | Business / Govt Request Workflow | Multi-level request and change management system with BRD → QA → UAT → Production flow | Internship |
 | 6 | [QR Scanning Web App](https://github.com/PriyeshShah22/QR-Scanning) | Web / Data Capture | QR-based web app to capture labels/fields and images, store in DB, and display in a view page | Internship (Practice) |
 
 ---
