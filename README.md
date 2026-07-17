@@ -24,7 +24,7 @@ Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and 
 
 ## Projects
 
-### Overview
+### Project Overview
 
 | # | Project | Field | What it does | Where it was made |
 |---|---------|-------|--------------|-------------------|
@@ -32,12 +32,11 @@ Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and 
 | 2 | [CashOut Predictor](#2-cashout-predictor) | Fintech | Analyzes banking transactions and spending to predict potential cash-out dates | Hackathon |
 | 3 | [Study Dashboard](#3-study-dashboard) | Productivity / Education | All-in-one study workspace for task management, goal tracking, and focused sessions | College (Microproject) |
 | 4 | [Silence Project](#4-silence-project) | Civic Analytics / Governance | AI analytics to detect “silent zones” with unusually low complaint activity | College (Microproject) |
-| 5 | [ChangeFlow](#5-changeflow) | Business / Govt Request Workflow | Multi-level request and change management system (Requester → Platform Owner → PGC → Developer → Admin) with BRD, QA, UAT, Production flow | Internship / Practice |
+| 5 | [ChangeFlow](#5-changeflow) | Business / Govt Request Workflow | Multi-level request and change management system with BRD → QA → UAT → Production flow | Internship / Practice |
 | 6 | [QR Scanning Web App](#6-qr-scanning-web-app) | Web / Data Capture | QR-based web app to capture labels/fields and images, store in DB, and display in a view page | Internship (Practice) |
 
-## View Projects
-<details>
-  
+---
+
 ### 1. Panchayat AI
 
 <details>
@@ -48,10 +47,8 @@ Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and 
 
 Voice-first housing-society platform for communities where many residents are not comfortable with forms, English-only software, or complex digital workflows.
 
-- Every important task has two paths:
-  - Ask the AI agent in English, Hindi, or Marathi.
-  - Use the normal manual screen as a fallback.
-- Combines society maintenance, complaints, notices, visitors, membership verification, roles, and administrative reporting in one accessible application.
+- Every task has two paths: AI agent (English/Hindi/Marathi) or manual screens.
+- Combines maintenance, complaints, notices, visitors, membership verification, roles, and reporting.
 
 **Repo:** [https://github.com/PriyeshShah22/Panchayat-AI](https://github.com/PriyeshShah22/Panchayat-AI)
 
@@ -67,7 +64,10 @@ Voice-first housing-society platform for communities where many residents are no
 **Type:** Hackathon project  
 **Field:** Fintech  
 
-Web-based financial assistant that analyzes banking transactions and spending behavior to predict potential future cash-out dates, helping users anticipate liquidity shortages and make proactive decisions.
+Web-based financial assistant that analyzes banking transactions and spending behavior to predict potential cash-out dates.
+
+- Uses historical expenditure patterns to estimate future liquidity shortages.
+- Helps users make proactive financial decisions.
 
 **Repo:** [https://github.com/PriyeshShah22/cashpredictor](https://github.com/PriyeshShah22/cashpredictor)
 
@@ -83,7 +83,10 @@ Web-based financial assistant that analyzes banking transactions and spending be
 **Type:** College microproject  
 **Field:** Productivity / Education  
 
-All-in-one productivity workspace for students to stay organized and focused. Combines essential study tools into a single interface for managing tasks, tracking goals, and maintaining productive study sessions.
+All-in-one productivity workspace for students to stay organized and focused.
+
+- Combines task management, goal tracking, and study session tools in a single interface.
+- Reduces context-switching between multiple apps.
 
 **Repo:** [https://github.com/PriyeshShah22/studydash](https://github.com/PriyeshShah22/studydash)
 
@@ -99,7 +102,10 @@ All-in-one productivity workspace for students to stay organized and focused. Co
 **Type:** College microproject  
 **Field:** Civic Analytics / Governance  
 
-AI-driven analytics tool that identifies regions with unusually low complaint activity, uncovering potential systemic underreporting and overlooked infrastructure issues. Helps governments and organizations detect “silent zones” where problems may exist despite a lack of public reporting.
+AI-driven analytics tool that identifies regions with unusually low complaint activity.
+
+- Detects “silent zones” where problems may exist despite low public reporting.
+- Helps governments and organizations prioritize investigations and resources.
 
 **Repo:** [https://github.com/PriyeshShah22/silence-project-main](https://github.com/PriyeshShah22/silence-project-main)
 
@@ -115,15 +121,10 @@ AI-driven analytics tool that identifies regions with unusually low complaint ac
 **Type:** Internship / Practice project  
 **Field:** Business / Govt Request Workflow  
 
-Request and change management system for business/government workflows. A request moves through four levels of review and then the full development lifecycle (BRD → QA → UAT → Production) before being closed.
+Request and change management system for business/government workflows.
 
-**Roles:**
-
-- **Requester** — Dashboard, Raise Request, My Requests, Reports  
-- **Platform Owner** — Dashboard, Platform Owner Approval, Reports, Dev Tracking  
-- **PGC** — Dashboard, PGC Review, Reports  
-- **Developer** — Dashboard, My Requests, Development Tracking, Reports  
-- **Admin** — Full access, including Admin Masters  
+- Requests move through four review levels and then BRD → QA → UAT → Production before closure.
+- Roles: Requester, Platform Owner, PGC, Developer, Admin (full access).
 
 **Repo:** [https://github.com/PriyeshShah22/Changeflow](https://github.com/PriyeshShah22/Changeflow)
 
@@ -141,17 +142,14 @@ Request and change management system for business/government workflows. A reques
 
 QR scanning web application built to strengthen understanding of SQL, Flask, Python, HTML, CSS, and JavaScript.
 
-- Scans QR codes and extracts label/field data (e.g., test name).
-- Allows uploading an associated image.
-- Stores records in a database.
-- Provides a view page to browse and inspect stored entries.
+- Scans QR codes, captures label/field data, and allows image upload.
+- Stores records in a database and provides a view page to browse entries.
 
 **Repo:** *(add your repo link here when available)*
 
 </details>
 
 ---
-</details>
 
 ## Work Experience
 
