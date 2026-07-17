@@ -31,9 +31,8 @@ Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and 
 | 1 | [Panchayat AI](https://github.com/PriyeshShah22/Panchayat-AI) | Housing Society / Civic Tech | Voice-first platform for society management with AI agent in English/Hindi/Marathi and manual fallback | Hackathon |
 | 2 | [CashOut Predictor](https://github.com/PriyeshShah22/cashpredictor) | Fintech | Analyzes banking transactions and spending to predict potential cash-out dates | Hackathon |
 | 3 | [Study Dashboard](https://github.com/PriyeshShah22/studydash) | Productivity / Education | All-in-one study workspace for task management, goal tracking, and focused sessions | College (Microproject) |
-| 4 | [Silence Project](https://github.com/PriyeshShah22/silence-project-main) | Civic Analytics / Governance | AI analytics to detect “silent zones” with unusually low complaint activity | College (Microproject) |
-| 5 | [ChangeFlow](https://github.com/PriyeshShah22/Changeflow) | Business / Govt Request Workflow | Multi-level request and change management system with BRD → QA → UAT → Production flow | Internship |
-| 6 | [QR Scanning Web App](https://github.com/PriyeshShah22/QR-Scanning) | Web / Data Capture | QR-based web app to capture labels/fields and images, store in DB, and display in a view page | Internship (Practice) |
+| 4 | [ChangeFlow](https://github.com/PriyeshShah22/Changeflow) | Business / Govt Request Workflow | Multi-level request and change management system with BRD → QA → UAT → Production flow | Internship |
+| 5 | [QR Scanning Web App](https://github.com/PriyeshShah22/QR-Scanning) | Web / Data Capture | QR-based web app to capture labels/fields and images, store in DB, and display in a view page | Internship (Practice) |
 
 ---
 
@@ -94,26 +93,7 @@ All-in-one productivity workspace for students to stay organized and focused.
 
 ---
 
-### 4. Silence Project
-
-<details>
-<summary>View details</summary>
-
-**Type:** College microproject  
-**Field:** Civic Analytics / Governance  
-
-AI-driven analytics tool that identifies regions with unusually low complaint activity.
-
-- Detects “silent zones” where problems may exist despite low public reporting.
-- Helps governments and organizations prioritize investigations and resources.
-
-**Repo:** [https://github.com/PriyeshShah22/silence-project-main](https://github.com/PriyeshShah22/silence-project-main)
-
-</details>
-
----
-
-### 5. ChangeFlow
+### 4. ChangeFlow
 
 <details>
 <summary>View details</summary>
@@ -132,7 +112,7 @@ Request and change management system for business/government workflows.
 
 ---
 
-### 6. QR Scanning Web App
+### 5. QR Scanning Web App
 
 <details>
 <summary>View details</summary>
