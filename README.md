@@ -33,7 +33,7 @@ Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and 
 | 5 | [ChangeFlow](#5-changeflow) | Business / Govt Request Workflow | Multi-level request and change management system (Requester → Platform Owner → PGC → Developer → Admin) with BRD, QA, UAT, Production flow | Internship / Practice |
 | 6 | [QR Scanning Web App](#6-qr-scanning-web-app) | Web / Data Capture | QR-based web app to capture labels/fields and images, store in DB, and display in a view page | Internship (Practice) |
 
-### View Projects
+## View Projects
 <details>
   
 ### 1. Panchayat AI
