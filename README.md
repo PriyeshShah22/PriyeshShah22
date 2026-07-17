@@ -1,74 +1,173 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-<h1 align="center">Hey 👋 I'm Priyesh Shah</h1>
-<p align="center">🚀 AI/ML Enthusiast | Open Source Contributor | Automation Builder</p>
-
-###
-
-<p align="left">I'm passionate about exploring Artificial Intelligence, Machine Learning, and AI-powered automation tools. I enjoy building projects, contributing to open source, and continuously learning new technologies.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🔭 I’m currently working on Open source contributions and building projects<br>🌱 I’m currently learning AI/ML and Ai automation tools<br>👨‍💻 All of my projects are available at https://github.com/PriyeshShah22/<br>📝 I regularly write articles on https://medium.com/@priyeshshah2006<br>📫 How to reach me priyesh.shah2006@gmail.com</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
-
-###
-
-<h2 align="left">Projects</h2>
-
-###
-
-<p align="left">💰 CashOut Predictor<br>Hackathon Project • Autonomous Financial Intelligence<br><br>Built during my first hackathon, CashOut Predictor is a web-based financial assistant designed to analyze banking transactions and spending behavior. By leveraging historical expenditure patterns, the platform predicts potential future cash-out dates, helping users anticipate liquidity shortages and make proactive financial decisions.<br>🔗 Repository: https://github.com/PriyeshShah22/cashpredictor<br><br>📚 Study Dashboard<br>Productivity & Learning Management Platform<br><br>Study Dashboard is an all-in-one productivity workspace built to help students stay organized and focused. It combines essential study tools into a single interface, enabling users to manage tasks, track goals, and maintain productive study sessions.<br>🔗 Repository: https://github.com/PriyeshShah22/studydash<br><br>🔍 Silence Project<br>AI-Powered Civic Analytics & Governance Platform<br><br>Silence Project is an AI-driven analytics tool that identifies regions with unusually low complaint activity, uncovering potential cases of systemic underreporting and overlooked infrastructure issues. The platform helps governments and organizations detect "silent zones" where problems may exist despite a lack of public reporting.<br>🔗 Repository: https://github.com/PriyeshShah22/silence-project-main</p>🛣️ <b>Smart Toll System</b><br>IoT & Smart Transportation Solution<br><br>Smart Toll System is an intelligent toll management platform designed to automate vehicle identification, streamline toll collection, and reduce congestion at toll plazas. The system focuses on improving traffic flow through automation, real-time processing, and efficient transaction handling, creating a faster and more seamless experience for commuters.<br>🔗 Repository: https://github.com/PriyeshShah22/smart-toll-system</p>
-
-###
-
-<h2 align="left">Socials</h2>
-
-###
 <div align="center">
-  <a href="https://www.linkedin.com/in/priyesh-shah-6466b2331/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/priyeshshah2006" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://medium.com/@priyeshshah2006" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
-  </a>
-  <a href="priyeshshah2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Header" />
+  <h1>Priyesh Shah</h1>
+  <p>Software Project Engineer • AI/ML • Automation</p>
+  <p>
+    <a href="https://github.com/PriyeshShah22">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/priyesh-shah-6466b2331/">LinkedIn</a> ·
+    <a href="https://medium.com/@priyeshshah2006">Medium</a> ·
+    <a href="mailto:priyesh.shah2006@gmail.com">Email</a>
+  </p>
 </div>
 
-###
+---
+
+## Profile
+
+Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and automation tools. Interested in building practical systems and contributing to open source.
+
+**Current role:** Software Project Engineer, Reliance Retail Limited
+
+---
+
+## Projects
+
+This section will later be split into:
+- Group projects (Internship / College / Hackathon)
+- Personal projects
+
+For now, all projects are listed together in a table with collapsible details.
+
+### Project Overview
+
+| # | Project | Field | What it does | Where it was made |
+|---|---------|-------|--------------|-------------------|
+| 1 | [Panchayat AI](#1-panchayat-ai) | Housing Society / Civic Tech | Voice-first platform for society management with AI agent in English/Hindi/Marathi and manual fallback | Hackathon |
+| 2 | [CashOut Predictor](#2-cashout-predictor) | Fintech | Analyzes banking transactions and spending to predict potential cash-out dates | Hackathon |
+| 3 | [Study Dashboard](#3-study-dashboard) | Productivity / Education | All-in-one study workspace for task management, goal tracking, and focused sessions | College (Microproject) |
+| 4 | [Silence Project](#4-silence-project) | Civic Analytics / Governance | AI analytics to detect “silent zones” with unusually low complaint activity | College (Microproject) |
+| 5 | [ChangeFlow](#5-changeflow) | Business / Govt Request Workflow | Multi-level request and change management system (Requester → Platform Owner → PGC → Developer → Admin) with BRD, QA, UAT, Production flow | Internship / Practice |
+| 6 | [QR Scanning Web App](#6-qr-scanning-web-app) | Web / Data Capture | QR-based web app to capture labels/fields and images, store in DB, and display in a view page | Internship (Practice) |
+
+---
+
+### 1. Panchayat AI
+
+<details>
+<summary>View details</summary>
+
+**Type:** Hackathon project  
+**Field:** Housing Society / Civic Tech  
+
+Voice-first housing-society platform for communities where many residents are not comfortable with forms, English-only software, or complex digital workflows.
+
+- Every important task has two paths:
+  - Ask the AI agent in English, Hindi, or Marathi.
+  - Use the normal manual screen as a fallback.
+- Combines society maintenance, complaints, notices, visitors, membership verification, roles, and administrative reporting in one accessible application.
+
+**Repo:** [https://github.com/PriyeshShah22/Panchayat-AI](https://github.com/PriyeshShah22/Panchayat-AI)
+
+</details>
+
+---
+
+### 2. CashOut Predictor
+
+<details>
+<summary>View details</summary>
+
+**Type:** Hackathon project  
+**Field:** Fintech  
+
+Web-based financial assistant that analyzes banking transactions and spending behavior to predict potential future cash-out dates, helping users anticipate liquidity shortages and make proactive decisions.
+
+**Repo:** [https://github.com/PriyeshShah22/cashpredictor](https://github.com/PriyeshShah22/cashpredictor)
+
+</details>
+
+---
+
+### 3. Study Dashboard
+
+<details>
+<summary>View details</summary>
+
+**Type:** College microproject  
+**Field:** Productivity / Education  
+
+All-in-one productivity workspace for students to stay organized and focused. Combines essential study tools into a single interface for managing tasks, tracking goals, and maintaining productive study sessions.
+
+**Repo:** [https://github.com/PriyeshShah22/studydash](https://github.com/PriyeshShah22/studydash)
+
+</details>
+
+---
+
+### 4. Silence Project
+
+<details>
+<summary>View details</summary>
+
+**Type:** College microproject  
+**Field:** Civic Analytics / Governance  
+
+AI-driven analytics tool that identifies regions with unusually low complaint activity, uncovering potential systemic underreporting and overlooked infrastructure issues. Helps governments and organizations detect “silent zones” where problems may exist despite a lack of public reporting.
+
+**Repo:** [https://github.com/PriyeshShah22/silence-project-main](https://github.com/PriyeshShah22/silence-project-main)
+
+</details>
+
+---
+
+### 5. ChangeFlow
+
+<details>
+<summary>View details</summary>
+
+**Type:** Internship / Practice project  
+**Field:** Business / Govt Request Workflow  
+
+Request and change management system for business/government workflows. A request moves through four levels of review and then the full development lifecycle (BRD → QA → UAT → Production) before being closed.
+
+**Roles:**
+
+- **Requester** — Dashboard, Raise Request, My Requests, Reports  
+- **Platform Owner** — Dashboard, Platform Owner Approval, Reports, Dev Tracking  
+- **PGC** — Dashboard, PGC Review, Reports  
+- **Developer** — Dashboard, My Requests, Development Tracking, Reports  
+- **Admin** — Full access, including Admin Masters  
+
+**Repo:** [https://github.com/PriyeshShah22/Changeflow](https://github.com/PriyeshShah22/Changeflow)
+
+</details>
+
+---
+
+### 6. QR Scanning Web App
+
+<details>
+<summary>View details</summary>
+
+**Type:** Internship practice project  
+**Field:** Web / Data Capture  
+
+QR scanning web application built to strengthen understanding of SQL, Flask, Python, HTML, CSS, and JavaScript.
+
+- Scans QR codes and extracts label/field data (e.g., test name).
+- Allows uploading an associated image.
+- Stores records in a database.
+- Provides a view page to browse and inspect stored entries.
+
+**Repo:** *(add your repo link here when available)*
+
+</details>
+
+---
+
+## Work Experience
+
+**Reliance Retail Limited** — Software Project Engineer  
+- Working on software projects involving AI/ML and automation tooling.  
+- Involved in end-to-end development, from requirements to deployment.
+
+*(You can expand this later with more concrete bullet points as you ship work.)*
+
+---
+
+## Contact
+
+- Email: priyesh.shah2006@gmail.com  
+- LinkedIn: [linkedin.com/in/priyesh-shah-6466b2331/](https://www.linkedin.com/in/priyesh-shah-6466b2331/)  
+- GitHub: [github.com/PriyeshShah22](https://github.com/PriyeshShah22/)  
+- Medium: [medium.com/@priyeshshah2006](https://medium.com/@priyeshshah2006)
