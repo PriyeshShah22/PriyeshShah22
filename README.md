@@ -15,7 +15,9 @@
 ## Profile
 
 Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and automation tools. Interested in building practical systems and contributing to open source.
+
 **Education:** B.Tech in Computer Engineering (Expected Graduation: 2028), Shah and Anchor Kutchhi Engineering College
+
 **Experience:** Software Project Engineer Intern (6 months), Reliance Retail Limited
 
 ---
