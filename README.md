@@ -28,7 +28,7 @@ Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and 
 
 | # | Project | Field | What it does | Where it was made |
 |---|---------|-------|--------------|-------------------|
-| 1 | [Panchayat AI](#1-panchayat-ai) | Housing Society / Civic Tech | Voice-first platform for society management with AI agent in English/Hindi/Marathi and manual fallback | Hackathon |
+| 1 | [Panchayat AI](https://github.com/PriyeshShah22/Panchayat-AI) | Housing Society / Civic Tech | Voice-first platform for society management with AI agent in English/Hindi/Marathi and manual fallback | Hackathon |
 | 2 | [CashOut Predictor](#2-cashout-predictor) | Fintech | Analyzes banking transactions and spending to predict potential cash-out dates | Hackathon |
 | 3 | [Study Dashboard](#3-study-dashboard) | Productivity / Education | All-in-one study workspace for task management, goal tracking, and focused sessions | College (Microproject) |
 | 4 | [Silence Project](#4-silence-project) | Civic Analytics / Governance | AI analytics to detect “silent zones” with unusually low complaint activity | College (Microproject) |
