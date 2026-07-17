@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Header" />
-  <h1>Priyesh Shah</h1>
+  <h1>Hey 👋 I’m Priyesh Shah</h1>
   <p>Software Project Engineer • AI/ML • Automation</p>
   <p>
     <a href="https://github.com/PriyeshShah22">GitHub</a> ·
@@ -15,20 +15,14 @@
 ## Profile
 
 Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and automation tools. Interested in building practical systems and contributing to open source.
-
-**Current role:** Software Project Engineer, Reliance Retail Limited
+**Education:** B.Tech in Computer Engineering (Expected Graduation: 2028), Shah and Anchor Kutchhi Engineering College
+**Experience:** Software Project Engineer Intern (6 months), Reliance Retail Limited
 
 ---
 
 ## Projects
 
-This section will later be split into:
-- Group projects (Internship / College / Hackathon)
-- Personal projects
-
-For now, all projects are listed together in a table with collapsible details.
-
-### Project Overview
+###Overview
 
 | # | Project | Field | What it does | Where it was made |
 |---|---------|-------|--------------|-------------------|
@@ -39,6 +33,8 @@ For now, all projects are listed together in a table with collapsible details.
 | 5 | [ChangeFlow](#5-changeflow) | Business / Govt Request Workflow | Multi-level request and change management system (Requester → Platform Owner → PGC → Developer → Admin) with BRD, QA, UAT, Production flow | Internship / Practice |
 | 6 | [QR Scanning Web App](#6-qr-scanning-web-app) | Web / Data Capture | QR-based web app to capture labels/fields and images, store in DB, and display in a view page | Internship (Practice) |
 
+<summary>View Projects</summary>
+<details>
 ---
 
 ### 1. Panchayat AI
@@ -154,6 +150,7 @@ QR scanning web application built to strengthen understanding of SQL, Flask, Pyt
 </details>
 
 ---
+</details>
 
 ## Work Experience
 
@@ -161,13 +158,21 @@ QR scanning web application built to strengthen understanding of SQL, Flask, Pyt
 - Working on software projects involving AI/ML and automation tooling.  
 - Involved in end-to-end development, from requirements to deployment.
 
-*(You can expand this later with more concrete bullet points as you ship work.)*
-
 ---
 
-## Contact
+## Lets Connect
 
-- Email: priyesh.shah2006@gmail.com  
-- LinkedIn: [linkedin.com/in/priyesh-shah-6466b2331/](https://www.linkedin.com/in/priyesh-shah-6466b2331/)  
-- GitHub: [github.com/PriyeshShah22](https://github.com/PriyeshShah22/)  
-- Medium: [medium.com/@priyeshshah2006](https://medium.com/@priyeshshah2006)
+<div align="center">
+  <a href="https://www.linkedin.com/in/priyesh-shah-6466b2331/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin" />
+  </a>
+  <a href="https://x.com/priyeshshah2006" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="x" />
+  </a>
+  <a href="https://medium.com/@priyeshshah2006" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="medium" />
+  </a>
+  <a href="mailto:priyeshshah2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail" />
+  </a>
+</div>
