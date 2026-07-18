@@ -34,102 +34,54 @@ Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and 
 | 4 | [ChangeFlow](https://github.com/PriyeshShah22/Changeflow) | Business / Govt Request Workflow | Multi-level request and change management system with BRD → QA → UAT → Production flow | Internship |
 | 5 | [QR Scanning Web App](https://github.com/PriyeshShah22/QR-Scanning) | Web / Data Capture | QR-based web app to capture labels/fields and images, store in DB, and display in a view page | Internship (Practice) |
 
+<details>Open Project Details
 ---
 
 ### 1. Panchayat AI
 
-<details>
 <summary>View details</summary>
-
-**Type:** Hackathon project  
-**Field:** Housing Society / Civic Tech  
-
 Voice-first housing-society platform for communities where many residents are not comfortable with forms, English-only software, or complex digital workflows.
-
 - Every task has two paths: AI agent (English/Hindi/Marathi) or manual screens.
 - Combines maintenance, complaints, notices, visitors, membership verification, roles, and reporting.
-
-**Repo:** [https://github.com/PriyeshShah22/Panchayat-AI](https://github.com/PriyeshShah22/Panchayat-AI)
-
-</details>
 
 ---
 
 ### 2. CashOut Predictor
 
-<details>
 <summary>View details</summary>
-
-**Type:** Hackathon project  
-**Field:** Fintech  
-
 Web-based financial assistant that analyzes banking transactions and spending behavior to predict potential cash-out dates.
-
 - Uses historical expenditure patterns to estimate future liquidity shortages.
 - Helps users make proactive financial decisions.
-
-**Repo:** [https://github.com/PriyeshShah22/cashpredictor](https://github.com/PriyeshShah22/cashpredictor)
-
-</details>
 
 ---
 
 ### 3. Study Dashboard
 
-<details>
 <summary>View details</summary>
-
-**Type:** College microproject  
-**Field:** Productivity / Education  
-
 All-in-one productivity workspace for students to stay organized and focused.
-
 - Combines task management, goal tracking, and study session tools in a single interface.
 - Reduces context-switching between multiple apps.
-
-**Repo:** [https://github.com/PriyeshShah22/studydash](https://github.com/PriyeshShah22/studydash)
-
-</details>
 
 ---
 
 ### 4. ChangeFlow
 
-<details>
 <summary>View details</summary>
-
-**Type:** Internship / Practice project  
-**Field:** Business / Govt Request Workflow  
-
 Request and change management system for business/government workflows.
-
 - Requests move through four review levels and then BRD → QA → UAT → Production before closure.
 - Roles: Requester, Platform Owner, PGC, Developer, Admin (full access).
-
-**Repo:** [https://github.com/PriyeshShah22/Changeflow](https://github.com/PriyeshShah22/Changeflow)
-
-</details>
 
 ---
 
 ### 5. QR Scanning Web App
 
-<details>
 <summary>View details</summary>
-
-**Type:** Internship practice project  
-**Field:** Web / Data Capture  
-
 QR scanning web application built to strengthen understanding of SQL, Flask, Python, HTML, CSS, and JavaScript.
-
 - Scans QR codes, captures label/field data, and allows image upload.
 - Stores records in a database and provides a view page to browse entries.
 
-**Repo:** [https://github.com/PriyeshShah22/QR-Scanning](https://github.com/PriyeshShah22/QR-Scanning)
-
-</details>
-
 ---
+</details>
 
 ## Work Experience
 
