@@ -16,55 +16,43 @@
 
 Computer Science engineer based in Mumbai. Working on AI/ML, RAG workflows, and automation tools. Interested in building practical systems and contributing to open source.
 
-**Education:** B.Tech in Computer Engineering (Expected Graduation: 2028), Shah and Anchor Kutchhi Engineering College
-
+**Education:** B.Tech in Computer Engineering (Expected Graduation: 2028), Shah and Anchor Kutchhi Engineering College<br>
 **Experience:** Software Project Engineer Intern (6 months), Reliance Retail Limited
 
 ---
 
-### Project Overview
+## Project Overview
 
 | # | Project | Field | What it does | Where it was made |
 |---|---------|-------|--------------|-------------------|
-| 1 | [Panchayat AI](https://github.com/PriyeshShah22/Panchayat-AI) | Housing Society / Civic Tech | Voice-first platform for society management with AI agent in English/Hindi/Marathi and manual fallback | Hackathon |
-| 2 | [CashOut Predictor](https://github.com/PriyeshShah22/cashpredictor) | Fintech | Analyzes banking transactions and spending to predict potential cash-out dates | Hackathon |
-| 3 | [Study Dashboard](https://github.com/PriyeshShah22/studydash) | Productivity / Education | All-in-one study workspace for task management, goal tracking, and focused sessions | College (Microproject) |
-| 4 | [ChangeFlow](https://github.com/PriyeshShah22/Changeflow) | Business / Govt Request Workflow | Multi-level request and change management system with BRD → QA → UAT → Production flow | Internship |
-| 5 | [QR Scanning Web App](https://github.com/PriyeshShah22/QR-Scanning) | Web / Data Capture | QR-based web app to capture labels/fields and images, store in DB, and display in a view page | Internship (Practice) |
+| 1 | [Panchayat AI](https://github.com/PriyeshShah22/Panchayat-AI) | Generative AI • AI Agents • LLM Integration • Speech AI | Voice-first platform for society management with AI agent in English/Hindi/Marathi and manual fallback | Hackathon |
+| 2 | [CashOut Predictor](https://github.com/PriyeshShah22/cashpredictor) | Machine Learning • Predictive Analytics | Analyzes banking transactions and spending to predict potential cash-out dates | Hackathon |
+| 3 | [Study Dashboard](https://github.com/PriyeshShah22/studydash) |Full-Stack Web Development| All-in-one study workspace for task management, goal tracking, and focused sessions | College (Microproject) |
+| 4 | [ChangeFlow](https://github.com/PriyeshShah22/Changeflow) | Enterprise Web Development • Workflow Management • RBAC | Multi-level request and change management system with BRD → QA → UAT → Production flow | Internship |
+
 
 <details>
 <summary><b>Open project notes</b></summary>
 
 ### 1. Panchayat AI
 
-Voice-first housing-society platform for communities where many residents are not comfortable with forms, English-only software, or complex digital workflows.
-- Every task has two paths: AI agent (English/Hindi/Marathi) or manual screens.
-- Combines maintenance, complaints, notices, visitors, membership verification, roles, and reporting.
+Voice-first housing society management platform supporting English, Hindi, and Marathi with AI and manual workflows.
+Manages complaints, maintenance, notices, visitors, and membership in one system.
 
 ### 2. CashOut Predictor
 
-Web-based financial assistant that analyzes banking transactions and spending behavior to predict potential cash-out dates.
-- Uses historical expenditure patterns to estimate future liquidity shortages.
-- Helps users make proactive financial decisions.
+Financial web application that predicts future cash-out dates from spending patterns.
+Helps users plan expenses and improve financial decision-making.
 
 ### 3. Study Dashboard
 
-All-in-one productivity workspace for students to stay organized and focused.
-- Combines task management, goal tracking, and study session tools in a single interface.
-- Reduces context-switching between multiple apps.
+Student productivity platform for managing tasks, goals, and study sessions.
+Keeps academic activities organized through a single dashboard.
 
 ### 4. ChangeFlow
 
-Request and change management system for business/government workflows.
-- Requests move through four review levels and then BRD → QA → UAT → Production before closure.
-- Roles: Requester, Platform Owner, PGC, Developer, Admin (full access).
-
-
-### 5. QR Scanning Web App
-
-QR scanning web application built to strengthen understanding of SQL, Flask, Python, HTML, CSS, and JavaScript.
-- Scans QR codes, captures label/field data, and allows image upload.
-- Stores records in a database and provides a view page to browse entries.
+Role-based request and change management system for business workflows.
+Tracks requests through approvals, development, testing, and production.
 
 </details>
 
